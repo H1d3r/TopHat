@@ -5,5 +5,4 @@
 
 [![Everything Is AWESOME](https://i.imgur.com/zWphvB0.png)](https://www.youtube.com/watch?v=eLry2UrxCCc "")
 
-
-https://www.youtube.com/embed/qc6ivtL6IdA
+[![Everything Is AWESOME](https://i.imgur.com/gmK9IDG.png)](https://www.youtube.com/watch?v=qc6ivtL6IdA "")
