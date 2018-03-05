@@ -3,7 +3,7 @@
 
 <h1>Supporters</h1>
 
-![image alt text](http://i.ytimg.com/vi/eLry2UrxCCc/default.jpg)
-[link text](https://www.youtube.com/embed/eLry2UrxCCc)
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=eLry2UrxCCc "")
+
 
 https://www.youtube.com/embed/qc6ivtL6IdA
